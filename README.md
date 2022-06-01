@@ -1,6 +1,6 @@
 ### Hello.
 
-I just honestly don't know what I'm doing right know. I think I can came back later, so...
+I just honestly don't know what I'm doing right know. I think I can come back later, so...
 
 Have a good day. 
 
