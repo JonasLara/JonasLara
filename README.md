@@ -1,6 +1,9 @@
-### Hello.
 
-Have a good day. 
+# en·thu·si·ast
+_noun_
+
+
+1.  a person who is very interested in a particular activity or subject.
 
 <!--
 **JonasLara/JonasLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
